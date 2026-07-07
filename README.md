@@ -20,7 +20,7 @@ The dataset contains global company layoffs information, and the goal was to cle
 - MySQL Workbench  
 - SQL (CTE, Window Functions, Aggregations)
 
-## 📊 Findings and Insights
+## 📊 Main Findings and Insights
 
 After cleaning and analyzing the global layoffs dataset, 
 I identified the top 5 companies per year with the highest number of layoffs using SQL aggregation and window functions.
@@ -42,4 +42,4 @@ I identified the top 5 companies per year with the highest number of layoffs usi
 
 This analysis demonstrates the use of `CTE`, `GROUP BY`, and `DENSE_RANK()` to extract business insights from structured data.
 
-
+![Data Analysis Screenshot](data_analysis_screenshot.png)
